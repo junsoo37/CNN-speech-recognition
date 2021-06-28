@@ -6,4 +6,4 @@ CNN based speech recognition project.
 
 * Use melspectogram to convert voice data
 * Development 1-Layer, 2-Layer, 3-Layer CNN.
-* Control learning_rate, CNN's Filter size to optimize result
+* Control learning_rate, CNN's Filter size to minimize error
